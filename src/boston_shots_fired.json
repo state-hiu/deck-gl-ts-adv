@@ -1,0 +1,94 @@
+[
+  {
+    "neighborhood": "Allston",
+    "value": 39
+  },
+  {
+    "neighborhood": "Back Bay",
+    "value": 17
+  },
+  {
+    "neighborhood": "Beacon Hill",
+    "value": 4
+  },
+  {
+    "neighborhood": "Brighton",
+    "value": 64
+  },
+  {
+    "neighborhood": "Chinatown",
+    "value": 6
+  },
+  {
+    "neighborhood": "Charlestown",
+    "value": 38
+  },
+  {
+    "neighborhood": "Dorchester",
+    "value": 2630
+  },
+  {
+    "neighborhood": "Downtown",
+    "value": 23
+  },
+  {
+    "neighborhood": "East Boston",
+    "value": 89
+  },
+  {
+    "neighborhood": "Fenway",
+    "value": 31
+  },
+  {
+    "neighborhood": "Hyde park",
+    "value": 190
+  },
+  {
+    "neighborhood": "Jamaica Plain",
+    "value": 247
+  },
+  {
+    "neighborhood": "Leather District",
+    "value": 6
+  },
+  {
+    "neighborhood": "Mattapan",
+    "value": 450
+  },
+  {
+    "neighborhood": "Mission Hill",
+    "value": 116
+  },
+  {
+    "neighborhood": "North End",
+    "value": 6
+  },
+  {
+    "neighborhood": "Roslindale",
+    "value": 100
+  },
+  {
+    "neighborhood": "Roxbury",
+    "value": 1215
+  },
+  {
+    "neighborhood": "South Boston",
+    "value": 170
+  },
+  {
+    "neighborhood": "South Boston Waterfront",
+    "value": 4
+  },
+  {
+    "neighborhood": "South End",
+    "value": 104
+  },
+  {
+    "neighborhood": "West End",
+    "value": 4
+  },
+  {
+    "neighborhood": "West Roxbury",
+    "value": 28
+  }
+]
